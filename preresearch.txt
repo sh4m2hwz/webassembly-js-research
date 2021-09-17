@@ -40,3 +40,7 @@ https://github.com/spsforks/WebAssembly-Design-Documents
 https://rustwasm.github.io/wasm-bindgen/examples/wasm2js.html
 https://ieeexplore.ieee.org/document/8901223
 https://nodejs.dev/learn/nodejs-with-webassembly
+https://nodejs.org/api/
+https://nodejs.org/en/docs/
+https://runjs.app/
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
