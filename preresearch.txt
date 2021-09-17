@@ -39,3 +39,4 @@ https://rustwasm.github.io/
 https://github.com/spsforks/WebAssembly-Design-Documents
 https://rustwasm.github.io/wasm-bindgen/examples/wasm2js.html
 https://ieeexplore.ieee.org/document/8901223
+https://nodejs.dev/learn/nodejs-with-webassembly
