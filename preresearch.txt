@@ -44,3 +44,5 @@ https://nodejs.org/api/
 https://nodejs.org/en/docs/
 https://runjs.app/
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
+https://github.com/alphaSeclab/obfuscation-stuff/blob/master/Readme_en.md#577bc949bc0fe3b90ecb3a9c0b1c1ed5
+https://github.com/mindedsecurity/jstillery
